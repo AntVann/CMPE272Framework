@@ -7,7 +7,7 @@ This is a chat application built used DropWizard as the backend and React as the
 
 Before setting up the project, ensure you have the following installed:
 
- **Java Development Kit (JDK)**: Version 8 or higher.
+- **Java Development Kit (JDK)**: Version 8 or higher.
 - **Apache Maven**: For project build and dependency management.
 - **Node.js and npm**: Required for building and running the React frontend.
 - **React**: Ensure that your environment is set up for React development.
