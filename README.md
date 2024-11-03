@@ -1,6 +1,6 @@
 # CMPE272 Application Frameworks
 
-This is a chat application built used DropWizard as the backend and React as the front end.
+This is a chat application built using DropWizard as the backend and React as the front end.
 
 
 ## Prerequisites
